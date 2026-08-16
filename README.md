@@ -14,8 +14,8 @@
 
 | Skill | 说明 |
 |-------|------|
-| [edu-course-outline-generator](https://github.com/asksky6718/edu-ai-skills/tree/main/skills/edu-course-outline-generator) | 职业教育课程大纲生成器：知识点碎片化 / 大纲验证 / 题库绑定 |
-| [skill-discovery-ops](https://github.com/asksky6718/edu-ai-skills/tree/main/skills/skill-discovery-ops) | AI 智能体技能发现与实装运维 |
+| [edu-course-outline-generator](https://github.com/asksky6718/edu-ai-skills/tree/main/skills/edu-course-outline-generator) | 课程大纲生成器 v2：单知识点~5分钟 / 10+短课时 / 三铁律（碎片化+验证+题库绑定） |
+| [skill-discovery-ops](https://github.com/asksky6718/edu-ai-skills/tree/main/skills/skill-discovery-ops) | AI 智能体技能发现与实装运维（6 维评估+冲突排除+镜像安装） |
 
 > 更新中：人工智能训练师备考助手、职教考证攻略生成器、AI 伴学督学提示词包
 
